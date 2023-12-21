@@ -1,3 +1,5 @@
+
+
 $cor1: #182C61;
 $cor2: #fff;
 $cor3: #44bd32;
@@ -84,7 +86,7 @@ section {
     text-decoration: none;
 
     &:hover {
-        background-color: $cor2;
+        background-color: darken($cor3,15%);
         color: #000;
     }
 }
